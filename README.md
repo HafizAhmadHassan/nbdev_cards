@@ -1,2 +1,3 @@
-# nbdev_cards
-A sample how to create deck of cards lib using nbdev
+# Deck of Cards (nbdev)
+
+A minimal nbdev tutorial project demonstrating how to create a deck of cards Python library using nbdev and Quarto for documentation.
