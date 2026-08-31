@@ -1,4 +1,5 @@
 # Deck of Cards (nbdev)
+*Created: 2022-08-13*
 
 A minimal **nbdev** tutorial project demonstrating how to create a **deck of cards** Python library.
 
